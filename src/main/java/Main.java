@@ -1,5 +1,4 @@
-package src.main.java;
-
 public class Main {
-    //it's main origin
+    //it's hotfix origin
 }
+
